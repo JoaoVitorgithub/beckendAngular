@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "validade": "2021-10-21",
+      "preco": 500
+    },
+    {
+      "id": 2,
+      "nome": "Curso de Ionic Avançado",
+      "validade": "2021-10-23",
+      "preco": 500
+    },
+    {
+      "id": 3,
+      "nome": "Curso de Algoritmo Básico",
+      "validade": "2021-10-22",
+      "preco": 300
+    },
+    {
+      "id": 4,
+      "nome": "Curso de Excel",
+      "validade": "2021-05-06",
+      "preco": 200
+    },
+    {
+      "nome": "Curso de Ionic ",
+      "validade": "2021-03-30",
+      "preco": 300,
+      "id": 5
+    },
+    {
+      "nome": "Curso de Digitação",
+      "validade": "2021-11-06",
+      "preco": 250,
+      "id": 6
+    }
+  ]
+}
